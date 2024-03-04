@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../furni-gsap-youtube"
+		},
+		{
+			"path": "../../redux-toolkit-ui"
+		},
+		{
+			"path": "../../server-mern-blog"
+		}
+	]
+}
